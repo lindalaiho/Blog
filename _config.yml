@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Science Ramblings TEST
+title: Science Ramblings
 description: >- # this means to ignore newlines until "baseurl:"
-  As they say: "If you hate writing, write a blog". Here is where I try to overcome my fear of writing, one post at a time.
+
 baseurl: "/Blog" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lindalaiho

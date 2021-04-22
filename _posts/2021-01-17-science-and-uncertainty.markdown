@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Uncertainty and science: a personal battle"
+title:  "Science and uncertainty"
 date:   2021-01-17 15:57:01 +0300
-categories: 
+categories:
 ---
- 
+
 
 _Disclaimer: a fair bit of navel-gazing ahead!_
 
@@ -18,6 +18,6 @@ When I shifted my focus from wanting certain knowledge to wanting to understand 
 
 …
 
-I don’t think I am the only one wishing for certain knowledge about the world. The current pandemic, if nothing else, is making that blatantly obvious. No one knows when/if it will end and what the future will look like at that point. In the meantime, we just trudge on in our daily lives, weighed down by constant uncertainty about tomorrow. And many times, dealing with that is the more difficult thing. When everything feels uncertain, we tend to cling to something that makes us feel that we are in charge. I wonder if this feeling of control is why I was so drawn to science in the first place: the certain answers I felt it gave me made me feel safer in a world that is so complicated and unpredictable. By stocking my brain full of what I thought were absolute facts and explanations for how at least part of reality works, I felt more capable of dealing with the other irrational and uncertain aspects of life. To me, science was – and still is – a coping mechanism for an uncertain world. Then as a source of certain facts, now as an escapist distraction from the messed-up society we live in.
+I don’t think I am the only one wishing for certain knowledge about the world. The current pandemic, if nothing else, is making that blatantly obvious. No one knows when/if it will end and what the future will look like at that point. In the meantime, we just trudge on in our daily lives, weighed down by constant uncertainty about tomorrow. And many times, dealing with that is the most difficult thing. When everything feels uncertain, we tend to cling to something that makes us feel that we are in charge. I wonder if this feeling of control is why I was so drawn to science in the first place: the certain answers I felt it gave me made me feel safer in a world that is so complicated and unpredictable. By stocking my brain full of what I thought were absolute facts and explanations for how at least part of reality works, I felt more capable of dealing with the other irrational and uncertain aspects of life. To me, science was – and still is – a coping mechanism for an uncertain world. Then as a source of certain facts, now as an escapist distraction from the messed-up society we live in.
 
 If you’re still with me after I’ve self-analysed enough to fill a therapy session, this is the ultimate question I wanted to come to: do we enjoy learning because it satisfies our intrinsic human curiosity or because learning gives us knowledge which reduces the amount of uncertainty we perceive around us and that makes us feel more secure and therefore more content? Many of us, especially scientists, pride ourselves on being naturally curious but how much of that is actually just a stronger-than-usual desire to understand the world so that we can feel more in control? Perhaps the answer doesn’t matter as long as _something_ keeps us wanting to discover the world

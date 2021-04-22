@@ -2,9 +2,9 @@
 layout: post
 title:  "Curiosity and determination: the yin and yang of science?"
 date:   2020-12-10 12:17:01 +0300
-categories: 
+categories:
 ---
- 
+
 
 Motivation is one of those things everyone wants but which seems to be in very short supply, especially in these pandemic-ridden times. I’d like to have a word with the supplier myself but since they are not picking up, I’ve been trying to figure out the ingredients of motivation myself in hopes of recreating the recipe from scratch. I can’t say that I have come to any groundbreaking conclusions but I did discover two very simple factors that motivate me to keep doing science: being curious about a question and having the determination to pursue that question.
 
