@@ -7,7 +7,7 @@ categories:
 
 After many mild winters in a row, Mother Nature decided to overcompensate this year and unleashed on us more snow and cold days than even the most fervent winter enthusiast could ask for. I do like a snowy landscape on days when the sun makes a rare appearance, but there are aspects of winter that I could do without – namely being woken up by all the road clearing that happens at such an ungodly hour. One morning, instead of being annoyed, I had a think about the winter service vehicles driving around outside and what they might have to do with science.
 
-![Winter in Finland, 16 Jan 2021]({{site.github.url}}/assets/winter.jpeg)
+![Winter in Finland, 16 Jan 2021](assets/winter.jpeg)
 
 Albert Einstein, Charles Darwin, Marie Curie. Even Rosalind Franklin. In a parallel universe where scientists get reincarnated as vehicles, I bet these individuals would have been snow ploughs. Snow ploughs are the heroes of treacherous wintry roads. They are always first at the scene, ready to uncover the roads and create paths for others to follow. They are literal trailblazers that go where no other vehicle has gone before (that morning at least, if the snow has been heavy). They work alone but together their efforts create the network of cleared roads that the rest of the city relies on.
 
