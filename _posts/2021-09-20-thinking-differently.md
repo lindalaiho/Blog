@@ -6,7 +6,8 @@ categories:
 ---
 
 >“Do you want to do the kind of work where you can only win by thinking differently from everyone else?”
--- Paul Graham in [one of his recent essays](http://www.paulgraham.com/think.html).
+
+-- *Paul Graham in [one of his recent essays](http://www.paulgraham.com/think.html).*
 
 My instinctual answer to that question is yes. I suspect most, if not all scientists, would give the same answer. Coming up with novel ideas that no one has ever thought of before is the ultimate task in science, one which cannot be done without thinking differently from everyone around you. The ability to do so may even be a defining feature of a successful scientist. Then *why* is scientific education selecting for conformity?
 
