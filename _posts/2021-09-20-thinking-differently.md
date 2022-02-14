@@ -9,7 +9,7 @@ categories:
 
 -- *Paul Graham in [one of his recent essays](http://www.paulgraham.com/think.html).*
 
-My instinctual answer to that question is yes. I suspect most, if not all scientists, would give the same answer. Coming up with novel ideas that no one has ever thought of before is the ultimate task in science, one which cannot be done without thinking differently from everyone around you. The ability to do so may even be a defining feature of a successful scientist. Then why the heck is scientific education selecting for conformity???
+My instinctual answer to that question is yes. I suspect most, if not all scientists, would give the same answer. Coming up with novel ideas that no one has ever thought of before is the ultimate task in science, one which cannot be done without thinking differently from everyone around you. The ability to do so may even be a defining feature of a successful scientist. Then why the hell is scientific education selecting for conformity?
 
 As undergraduates, we are marked on our ability to solve problem sets with defined correct answers. We are ranked based on our ability to get to the right answer on exams. Essays have marking schemes and a marker who evaluates the writing based on his or her notions of what makes a good essay. Practicals are all about following steps in a manual with subsequent tests to check our understanding of the data we generated. The one who gets the predetermined answer right the most times wins. The one who conforms to the standards set by the examiners/markers wins.
 
