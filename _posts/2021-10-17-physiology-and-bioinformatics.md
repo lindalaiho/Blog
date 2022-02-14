@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Physiology and bioinformatics: oil and water?"
-date:   2021-07-17 13:24:00 +0300
+date:   2021-10-17 13:24:00 +0300
 categories:
 ---
 
@@ -22,7 +22,7 @@ Physiology is an old science. If you squint hard enough, you can see traces of i
 
 #### (b) Context
 
-Physiology is obsessed with function. As such, physiologists perhaps more than any other type of biologist rely on living things – cells, tissues, organisms – that can be probed for function. All of this requires hands-on experimentation, being immersed in the sounds, smells and sights of biology. In contrast, bioinformatics can be done in bed – far away from the context in which the biological data was obtained. Moreover, the data that is fed to bioinformaticians is static, in that it is sourced from fixed tissue from an organism that is no longer “functional”.
+Physiology is obsessed with function. As such, physiologists perhaps more than any other type of biologist rely on living things – cells, tissues, organisms – that can be probed for function. All of this requires hands-on experimentation, being immersed in the sounds, smells and sights of biology. In contrast, bioinformatics can be done in bed – far away from the context in which the biological data were obtained. Moreover, the data that is fed to bioinformaticians is static, in that it is sourced from fixed tissue from an organism that is no longer “functional”.
 
 #### (c) Prediction
 

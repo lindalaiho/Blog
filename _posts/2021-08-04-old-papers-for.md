@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Old papers for young minds"
-date:   2021-04-04 19:09:01 +0300
+date:   2021-08-04 19:09:01 +0300
 categories:
 ---
 
@@ -19,7 +19,7 @@ My argument in favour of old papers comes down to why we want students to read p
 
 ### New papers show the clean story…
 
-Reading papers can feel daunting. I think this is true for everyone but especially for students like me who are starting out in science. Take a recent Nature paper and you are faced with results from next-generation sequencing, fancy imaging techniques, transgenic mice and electrophysiology, all within one paper. You get densely packed tables and figures with so many panels that you run out of letters in the alphabet to name them with. As if that wasn’t enough, the writing is full of abbreviations, complicated words and run-on sentences. It's like the articles are deliberately written in a difficult way to convince us that the authors are smart people doing advanced and clever science. Any limitations of the study, if ever mentioned, are dumped into a short paragraph at the end and any oddities or mistakes will never see the light of day. The purpose of a paper is to show a clean story and establish the authors as authoritative voices in the field. Obviously not all papers are this extreme and there are also many good things about papers written in the modern age, especially in terms of open data and accessibility. But when you are a newbie, it’s all too easy to feel discouraged.
+Reading papers can feel daunting. I think this is true for everyone but especially for students like me who are starting out in science. Take a recent *Nature* paper and you are faced with results from next-generation sequencing, fancy imaging techniques, transgenic mice and electrophysiology, all within one paper. You get densely packed tables and figures with so many panels that you run out of letters in the alphabet to name them with. As if that wasn’t enough, the writing is full of abbreviations, complicated words and run-on sentences. It's like the articles are deliberately written in a difficult way to convince us that the authors are smart people doing advanced and clever science. Any limitations of the study, if ever mentioned, are dumped into a short paragraph at the end and any oddities or mistakes will never see the light of day. The purpose of a paper is to show a clean story and establish the authors as authoritative voices in the field. Obviously not all papers are this extreme and there are also many good things about papers written in the modern age, especially in terms of open data. But when you are a newbie, it’s all too easy to feel discouraged.
 
 ### …old papers show the messy journey
 
