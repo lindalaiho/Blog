@@ -20,7 +20,7 @@
 
 title: Science Ramblings
 author: Linda Laiho
-description: Personal takes on all things science # this means to ignore newlines until "baseurl:"
+description: Personal takes on science # this means to ignore newlines until "baseurl:"
 
 baseurl: "/Blog" # the subpath of your site, e.g. /blog
 url: "https://lindalaiho.github.io" # the base hostname & protocol for your site, e.g. http://example.com
